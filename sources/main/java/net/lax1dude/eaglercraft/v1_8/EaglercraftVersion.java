@@ -8,10 +8,10 @@ public class EaglercraftVersion {
 	/// Customize these to fit your fork:
 	
 	public static final String projectForkName = "EaglercraftX";
-	public static final String projectForkVersion = "u18";
-	public static final String projectForkVendor = "lax1dude";
+	public static final String projectForkVersion = "u19";
+	public static final String projectForkVendor = "radmanplays";
 	
-	public static final String projectForkURL = "https://gitlab.com/lax1dude/eaglercraftx-1.8";
+	public static final String projectForkURL = "https://github.com/radmanplays/Eaglercraft-u19-client-test";
 	
 	//////////////////////////////////////////////////////////////////////
 	
@@ -30,7 +30,7 @@ public class EaglercraftVersion {
 	
 	// Miscellaneous variables:
 
-	public static final String mainMenuStringA = "Minecraft 1.8.8";
+	public static final String mainMenuStringA = "Minecraft 1.8.8 (Modded*)";
 	public static final String mainMenuStringB = projectOriginName + " " +
 			projectOriginRevision + "-" + projectOriginVersion + " ultimate";
 	public static final String mainMenuStringC = "";
